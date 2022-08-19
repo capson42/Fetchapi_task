@@ -37,8 +37,3 @@ let show=(data_arr)=>{
 
 get_api()
 
-
-
-/* for (const i of data_arr){
-    console.log(i)
-} */
